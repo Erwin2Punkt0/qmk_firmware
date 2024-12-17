@@ -181,7 +181,7 @@
             {"matrix": [5, 2], "x": 25, "y": 64, "flags": 1},
             {"matrix": [4, 1], "x": 12, "y": 51, "flags": 4}
         ],
-        "max_brightness": 110,
+        "max_brightness": 255,
         "val_steps": 28,
         "sleep": true
     },
